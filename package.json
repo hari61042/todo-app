@@ -7,7 +7,7 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "serve:ssr:todo-app": "node dist/todo-app/server/server.mjs",
-    "start": "ng serve --host 0.0.0.0 --disable-host-check"
+    "start": "ng serve"
   },
   "private": true,
   "dependencies": {
